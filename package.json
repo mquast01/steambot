@@ -1,0 +1,30 @@
+{
+  "name": "steambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "handlebars": "^4.7.6",
+    "mongoose": "^5.11.19",
+    "morgan": "^1.10.0",
+    "simple-oauth2": "^4.2.0",
+    "socket.io": "^2.4.1",
+    "stack": "^0.1.0",
+    "steam-community": "^0.2.2",
+    "steam-totp": "^2.1.1",
+    "steam-tradeoffer-manager": "^2.10.2",
+    "steam-user": "^4.17.0",
+    "steamcommunity": "^3.41.8",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
